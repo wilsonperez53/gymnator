@@ -1,1 +1,0 @@
-export const DRAWER_ROUTE = "Drawer Navigator"
