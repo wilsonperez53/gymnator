@@ -1,0 +1,14 @@
+com/clase6/BuildConfig.java
+ com.clase6.BuildConfig
+com/clase6/MainApplication.java
+ com.clase6.MainApplication
+ com.clase6.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/clase6/MainActivity.java
+ com.clase6.MainActivity
+com/clase6/ReactNativeFlipper.java
+ com.clase6.ReactNativeFlipper
+ com.clase6.ReactNativeFlipper$1
+ com.clase6.ReactNativeFlipper$2
+ com.clase6.ReactNativeFlipper$2$1
